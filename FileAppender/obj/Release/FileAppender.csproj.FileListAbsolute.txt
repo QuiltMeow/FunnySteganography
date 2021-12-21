@@ -1,0 +1,19 @@
+E:\User Data\repos\FunnySteganography\FileAppender\bin\Release\FileAppender.exe.config
+E:\User Data\repos\FunnySteganography\FileAppender\bin\Release\FileAppender.exe
+E:\User Data\repos\FunnySteganography\FileAppender\bin\Release\FileAppender.pdb
+E:\User Data\repos\FunnySteganography\FileAppender\obj\Release\FileAppender.csprojAssemblyReference.cache
+E:\User Data\repos\FunnySteganography\FileAppender\obj\Release\FileAppender.MainForm.resources
+E:\User Data\repos\FunnySteganography\FileAppender\obj\Release\FileAppender.Properties.Resources.resources
+E:\User Data\repos\FunnySteganography\FileAppender\obj\Release\FileAppender.csproj.GenerateResource.cache
+E:\User Data\repos\FunnySteganography\FileAppender\obj\Release\FileAppender.exe
+E:\User Data\repos\FunnySteganography\FileAppender\obj\Release\FileAppender.pdb
+G:\VSProject\FunnySteganography\FileAppender\bin\Release\FileAppender.exe.config
+G:\VSProject\FunnySteganography\FileAppender\bin\Release\FileAppender.exe
+G:\VSProject\FunnySteganography\FileAppender\bin\Release\FileAppender.pdb
+G:\VSProject\FunnySteganography\FileAppender\obj\Release\FileAppender.csprojAssemblyReference.cache
+G:\VSProject\FunnySteganography\FileAppender\obj\Release\FileAppender.MainForm.resources
+G:\VSProject\FunnySteganography\FileAppender\obj\Release\FileAppender.Properties.Resources.resources
+G:\VSProject\FunnySteganography\FileAppender\obj\Release\FileAppender.csproj.GenerateResource.cache
+G:\VSProject\FunnySteganography\FileAppender\obj\Release\FileAppender.csproj.CoreCompileInputs.cache
+G:\VSProject\FunnySteganography\FileAppender\obj\Release\FileAppender.exe
+G:\VSProject\FunnySteganography\FileAppender\obj\Release\FileAppender.pdb

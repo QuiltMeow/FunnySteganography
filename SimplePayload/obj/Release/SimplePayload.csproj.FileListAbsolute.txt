@@ -1,0 +1,17 @@
+E:\User Data\repos\FunnySteganography\SimplePayload\bin\Release\SimplePayload.exe
+E:\User Data\repos\FunnySteganography\SimplePayload\bin\Release\SimplePayload.pdb
+E:\User Data\repos\FunnySteganography\SimplePayload\obj\Release\SimplePayload.csprojAssemblyReference.cache
+E:\User Data\repos\FunnySteganography\SimplePayload\obj\Release\SimplePayload.MainForm.resources
+E:\User Data\repos\FunnySteganography\SimplePayload\obj\Release\SimplePayload.Properties.Resources.resources
+E:\User Data\repos\FunnySteganography\SimplePayload\obj\Release\SimplePayload.csproj.GenerateResource.cache
+E:\User Data\repos\FunnySteganography\SimplePayload\obj\Release\SimplePayload.exe
+E:\User Data\repos\FunnySteganography\SimplePayload\obj\Release\SimplePayload.pdb
+G:\VSProject\FunnySteganography\SimplePayload\bin\Release\SimplePayload.exe
+G:\VSProject\FunnySteganography\SimplePayload\bin\Release\SimplePayload.pdb
+G:\VSProject\FunnySteganography\SimplePayload\obj\Release\SimplePayload.csprojAssemblyReference.cache
+G:\VSProject\FunnySteganography\SimplePayload\obj\Release\SimplePayload.MainForm.resources
+G:\VSProject\FunnySteganography\SimplePayload\obj\Release\SimplePayload.Properties.Resources.resources
+G:\VSProject\FunnySteganography\SimplePayload\obj\Release\SimplePayload.csproj.GenerateResource.cache
+G:\VSProject\FunnySteganography\SimplePayload\obj\Release\SimplePayload.csproj.CoreCompileInputs.cache
+G:\VSProject\FunnySteganography\SimplePayload\obj\Release\SimplePayload.exe
+G:\VSProject\FunnySteganography\SimplePayload\obj\Release\SimplePayload.pdb

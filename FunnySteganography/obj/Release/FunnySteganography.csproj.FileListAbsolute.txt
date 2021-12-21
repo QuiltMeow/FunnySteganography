@@ -1,0 +1,19 @@
+E:\User Data\repos\FunnySteganography\FunnySteganography\bin\Release\FunnySteganography.exe.config
+E:\User Data\repos\FunnySteganography\FunnySteganography\bin\Release\FunnySteganography.exe
+E:\User Data\repos\FunnySteganography\FunnySteganography\bin\Release\FunnySteganography.pdb
+E:\User Data\repos\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.csprojAssemblyReference.cache
+E:\User Data\repos\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.MainForm.resources
+E:\User Data\repos\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.Properties.Resources.resources
+E:\User Data\repos\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.csproj.GenerateResource.cache
+E:\User Data\repos\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.exe
+E:\User Data\repos\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.pdb
+G:\VSProject\FunnySteganography\FunnySteganography\bin\Release\FunnySteganography.exe.config
+G:\VSProject\FunnySteganography\FunnySteganography\bin\Release\FunnySteganography.exe
+G:\VSProject\FunnySteganography\FunnySteganography\bin\Release\FunnySteganography.pdb
+G:\VSProject\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.csprojAssemblyReference.cache
+G:\VSProject\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.MainForm.resources
+G:\VSProject\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.Properties.Resources.resources
+G:\VSProject\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.csproj.GenerateResource.cache
+G:\VSProject\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.csproj.CoreCompileInputs.cache
+G:\VSProject\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.exe
+G:\VSProject\FunnySteganography\FunnySteganography\obj\Release\FunnySteganography.pdb
