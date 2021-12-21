@@ -1,0 +1,1 @@
+![image](https://raw.githubusercontent.com/QuiltMeow/FunnySteganography/main/Image.jpg?raw=true)
